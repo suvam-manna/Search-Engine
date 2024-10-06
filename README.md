@@ -137,6 +137,3 @@ results but also ensures the security of user interactions. Also, implementation
 
 based client holding allow us to save the resources and serve large number of clients at a time.
 
-"# Search-Engine" 
-"# Search-Engine" 
-"# Search-Engine" 
